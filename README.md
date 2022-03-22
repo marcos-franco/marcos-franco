@@ -6,4 +6,4 @@ No momento estou em transição de carreira, focado no meu desenvolvimento como 
 
 🌱 Habilidades aprendidas até o momento, e que estou pondo em prática: HTML5, CSS3 e JavaScript básico.
 
-💼 Ferramentas: VS Code, Sublime Text 3, Git e GitHub.
+💼 Ferramentas: VS Code, Sublime Text 3, Node.js, Git e GitHub.
