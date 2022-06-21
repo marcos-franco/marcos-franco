@@ -4,6 +4,6 @@ No momento estou em transição de carreira, focado no meu desenvolvimento como 
 
 👀 Atualmente, estou matriculado nos cursos da "Alura Tecnologia" - Formação Front-End.
 
-🌱 Habilidades aprendidas até o momento, e que estou pondo em prática: HTML5, CSS3 e JavaScript básico.
+🌱 Habilidades aprendidas até o momento, e que estou pondo em prática: HTML5, CSS3 e JavaScript.
 
-💼 Ferramentas: VS Code, Sublime Text 3, Node.js, Git e GitHub.
+💼 Ferramentas: Visual Studio Code, Node.js, Sublime Text 3, GIT e GITHUB.
