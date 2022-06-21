@@ -1,9 +1,20 @@
-👋 Olá, me chamo Marcos Franco, sou formado em Engenharia Civil. 
-Trabalhei em algumas empresas de engenharia, como projetista, gestor de equipe, e no setor comercial. 
-No momento estou em transição de carreira, focado no meu desenvolvimento como Front-End.
+👋 Olá, me chamo Marcos Franco, Front-end Developer em formação.
 
-👀 Atualmente, estou matriculado nos cursos da "Alura Tecnologia" - Formação Front-End.
+Sou formado em Engenharia Civil, pelo Centro Universitário Augusto Motta - UNISUAM. Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da área de Tecnologia e estou sempre em busca de novos conhecimento nessa área. Trabalhei em empresas de engenharia como projetista, gestor de equipe, e em seguida, no setor comercial. No momento estou em transição de carreira para a área de Tecnologia, focado na minha formação como Front- end Developer.
 
-🌱 Habilidades aprendidas até o momento, e que estou pondo em prática: HTML5, CSS3 e JavaScript.
+💼 Atualmente estou matriculado na Alura Cursos online de Tecnologia, 
+estudando React; Angular; Bootstrap e dando continuidade no JavaScript.
 
-💼 Ferramentas: Visual Studio Code, Node.js, Sublime Text 3, GIT e GITHUB.
+Estou em processo de aprendizado e em busca da minha primeira oportunidade na área de Tecnologia, seja como Desenvolvedor Web Júnior, Front-End Júnior, Estagiário ou algo correlacionado, que possa me dar experiência para alcançar o meu objetivo.
+
+👀 Principais ferramentas de trabalho:
+HTML5; CSS3; JavaScript; Visual Studio Code; Node.js; Sublime Text 3; Git; Github.
+
+🌱 Soft Skills: 
+Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Confecção de documentos; Trabalho em equipe; Resolução de conflitos; Oratória.
+
+Site Linkedin:https://www.linkedin.com/in/marcosfranco-5b1a8a111/
+Site Alura Tecnologia/Perfil aluno:https://cursos.alura.com.br/user/masf68
+
+E-mail:masf68@hotmail.com
+Contato/WhatSapp:(21)99337-0486
