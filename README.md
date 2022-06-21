@@ -14,7 +14,9 @@ HTML5; CSS3; JavaScript; Visual Studio Code; Node.js; Sublime Text 3; Git; Githu
 Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Confecção de documentos; Trabalho em equipe; Resolução de conflitos; Oratória.
 
 Site Linkedin:https://www.linkedin.com/in/marcosfranco-5b1a8a111/
+
 Site Alura Tecnologia/Perfil aluno:https://cursos.alura.com.br/user/masf68
 
 E-mail:masf68@hotmail.com
+
 Contato/WhatSapp:(21)99337-0486
