@@ -8,7 +8,7 @@ estudando React; Angular; Bootstrap e dando continuidade no JavaScript.
 Estou em processo de aprendizado e em busca da minha primeira oportunidade na área de Tecnologia, seja como Desenvolvedor Web Júnior, Front-End Júnior, Estagiário ou algo correlacionado, que possa me dar experiência para alcançar o meu objetivo.
 
 👀 Principais ferramentas de trabalho:
-HTML5; CSS3; JavaScript; Visual Studio Code; Node.js; Sublime Text 3; Git; Github.
+HTML5; CSS3; JavaScript; Git; Github.
 
 🌱 Soft Skills: 
 Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Confecção de documentos; Trabalho em equipe; Resolução de conflitos; Oratória.
