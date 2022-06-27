@@ -11,7 +11,7 @@ Estou em processo de aprendizado e em busca da minha primeira oportunidade na á
 HTML5; CSS3; JavaScript; Git; Github.
 
 🌱 Soft Skills: 
-Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Confecção de documentos; Trabalho em equipe; Resolução de conflitos; Oratória.
+Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Trabalho em equipe; Resolução de conflitos; Oratória.
 
 Site Linkedin:https://www.linkedin.com/in/marcosfranco-5b1a8a111/
 
