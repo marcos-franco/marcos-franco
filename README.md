@@ -9,7 +9,7 @@ No momento estou em transição de carreira para a área de Tecnologia, focado n
 estudando React; Angular; Bootstrap e dando continuidade no JavaScript.
 
 Estou em busca de uma oportunidade na área de Tecnologia, seja como Desenvolvedor Web Júnior, Front-End Júnior, Estagiário ou algo correlacionado,
-que possa contribuir como experiência profissional.
+que possa contribuir na minha carreira profissional.
 
 👀 Principais ferramentas de trabalho:
 HTML5; CSS3; JavaScript; Git; Github.
