@@ -1,4 +1,5 @@
 👋 Olá, me chamo Marcos Franco.
+
 Sou formado em Engenharia Civil, pelo Centro Universitário Augusto Motta - UNISUAM. 
 Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da área de Tecnologia e estou sempre em busca de conhecimentos. 
 Trabalhei em empresas de engenharia como projetista, gestor de equipe, e em seguida, no setor comercial. 
