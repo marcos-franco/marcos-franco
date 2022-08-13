@@ -1,6 +1,8 @@
-👋 Olá, me chamo Marcos Franco, Front-end Developer em formação.
-
-Sou formado em Engenharia Civil, pelo Centro Universitário Augusto Motta - UNISUAM. Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da área de Tecnologia e estou sempre em busca de novos conhecimentos. Trabalhei em empresas de engenharia como projetista, gestor de equipe, e em seguida, no setor comercial. No momento estou em transição de carreira para a área de Tecnologia, focado na minha formação como Front- end Developer.
+👋 Olá, me chamo Marcos Franco,
+Sou formado em Engenharia Civil, pelo Centro Universitário Augusto Motta - UNISUAM. 
+Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da área de Tecnologia e estou sempre em busca de conhecimentos. 
+Trabalhei em empresas de engenharia como projetista, gestor de equipe, e em seguida, no setor comercial. 
+No momento estou em transição de carreira para a área de Tecnologia, focado na minha formação como Front- end Developer.
 
 💼 Atualmente estou matriculado na Alura Cursos online de Tecnologia, 
 estudando React; Angular; Bootstrap e dando continuidade no JavaScript.
