@@ -8,7 +8,8 @@ No momento estou em transição de carreira para a área de Tecnologia, focado n
 💼 Atualmente estou matriculado na Alura Cursos online de Tecnologia, 
 estudando React; Angular; Bootstrap e dando continuidade no JavaScript.
 
-Estou em busca da minha primeira oportunidade na área de Tecnologia, seja como Desenvolvedor Web Júnior, Front-End Júnior, Estagiário ou algo correlacionado, que possa me dar experiência para alcançar meus objetivos.
+Estou em busca de uma oportunidade na área de Tecnologia, seja como Desenvolvedor Web Júnior, Front-End Júnior, Estagiário ou algo correlacionado,
+que possa contribuir como experiência profissional.
 
 👀 Principais ferramentas de trabalho:
 HTML5; CSS3; JavaScript; Git; Github.
