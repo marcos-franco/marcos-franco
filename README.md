@@ -1,9 +1,9 @@
-👋 Olá, me chamo Marcos Franco.
+👋 Olá, me chamo Marcos Franco!
 
 Sou formado em Engenharia Civil, pelo Centro Universitário Augusto Motta - UNISUAM. 
 Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da área de Tecnologia e estou sempre em busca de conhecimentos. 
 Trabalhei em empresas de engenharia como projetista, gestor de equipe, e em seguida, no setor comercial. 
-No momento estou em transição de carreira para a área de Tecnologia, focado na minha formação como Front- end Developer.
+No momento estou em transição de carreira para a área de Tecnologia, focado na minha formação como Front-End Developer.
 
 💼 Atualmente estou matriculado na Alura Cursos online de Tecnologia, 
 estudando React; Angular; Bootstrap e dando continuidade no JavaScript.
@@ -17,10 +17,10 @@ HTML5; CSS3; JavaScript; Git; Github.
 🌱 Soft Skills: 
 Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Trabalho em equipe; Resolução de conflitos; Oratória.
 
-Site Linkedin:https://www.linkedin.com/in/marcosfranco-5b1a8a111/
+Site Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
 
-Site Alura Tecnologia/Perfil aluno:https://cursos.alura.com.br/user/masf68
+Site Alura Tecnologia/Perfil aluno: https://cursos.alura.com.br/user/masf68
 
-E-mail:masf68@hotmail.com
+E-mail: masf68@hotmail.com
 
 Contato/WhatSapp: https://contate.me/marcos-franco
