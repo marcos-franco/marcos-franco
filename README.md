@@ -12,7 +12,7 @@ Estou em busca de uma oportunidade na área de Tecnologia, seja como Desenvolved
 que possa contribuir na minha carreira profissional.
 
 👀 Principais ferramentas de trabalho:
-HTML5; CSS3; JavaScript; Git; Github.
+HTML5; CSS3; JavaScript; React; Git; Github.
 
 🌱 Soft Skills: 
 Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Trabalho em equipe; Resolução de conflitos; Oratória.
