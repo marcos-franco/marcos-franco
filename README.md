@@ -17,10 +17,10 @@ HTML5; CSS3; JavaScript; React; Git; Github.
 🌱 Soft Skills: 
 Comunicação interpessoal; Atendimento ao cliente; Negociação; Planejamento; Trabalho em equipe; Resolução de conflitos; Oratória.
 
-Site Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
+Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
 
-Site Alura Tecnologia/Perfil aluno: https://cursos.alura.com.br/user/masf68
+Alura Tecnologia: https://cursos.alura.com.br/user/masf68
 
 E-mail: masf68@hotmail.com
 
-Contato/WhatSapp: https://contate.me/marcos-franco
+WhatSapp: https://contate.me/marcos-franco
