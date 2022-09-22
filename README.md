@@ -1,7 +1,7 @@
 ## Olá! Me chamo Marcos Franco 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcos-franco)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcos.franco.5688)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos.franco_rio/)
 
 ![marcos-franco GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-franco&show_icons=true&theme=dracula&count_private=true)
@@ -31,6 +31,8 @@ Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da ár
 - [Site Gerador de texto Lorem Ipsum](https://www.loremipzum.com/pt/)<br/>
 - [Site CODEPEN, para construir, testar e descobrir código front-end](https://codepen.io/)<br/>
 - [Site MDN, fornece informações sobre tecnologias Open Web, incluindo HTML, CSS e APIs para sites e aplicativos da Web progressivos](https://developer.mozilla.org/pt-BR/)<br/>
+- [Site Badges, microcertificações que atestam domínio de habilidades específicas](https://dev.to/envoy_/150-badges-for-github-pnk)<br/>
+- [Site Emojis](https://emojipedia.org/)<br/>
 
 ### Meus contatos:
 - WhatSapp: https://contate.me/marcos-franco
