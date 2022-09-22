@@ -29,7 +29,7 @@ Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da ár
 - [Site CSS Layout Generator](https://layout.bradwoods.io/)<br/>
 - [Site Font Awesome](https://fontawesome.com/)<br/>
 - [Site Gerador de texto Lorem Ipsum](https://www.loremipzum.com/pt/)<br/>
-- [Site para construir, testar e descobrir código front-end](https://codepen.io/)<br/>
+- [Site CODEPEN, para construir, testar e descobrir código front-end](https://codepen.io/)<br/>
 - [Site MDN, fornece informações sobre tecnologias Open Web, incluindo HTML, CSS e APIs para sites e aplicativos da Web progressivos](https://developer.mozilla.org/pt-BR/)<br/>
 
 ### Meus contatos:
