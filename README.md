@@ -30,9 +30,13 @@ Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da ár
 - [Site Font Awesome](https://fontawesome.com/)<br/>
 - [Site Gerador de texto Lorem Ipsum](https://www.loremipzum.com/pt/)<br/>
 - [Site CODEPEN, para construir, testar e descobrir código front-end](https://codepen.io/)<br/>
-- [Site MDN, fornece informações sobre tecnologias Open Web, incluindo HTML, CSS e APIs para sites e aplicativos da Web progressivos](https://developer.mozilla.org/pt-BR/)<br/>
+- [Site MDN, fornece informações sobre tecnologias Open Web, incluindo HTML, CSS e APIs para sites e aplicativos da Web](https://developer.mozilla.org/pt-BR/)<br/>
 - [Site Badges, microcertificações que atestam domínio de habilidades específicas](https://dev.to/envoy_/150-badges-for-github-pnk)<br/>
 - [Site Emojis](https://emojipedia.org/)<br/>
+- [Site Google Fonts](https://fonts.google.com/)<br/>
+- [Site de desenvolvedores web da internet.](https://www.w3schools.com/)<br/>
+- [Site que fornece tabelas de suporte de navegadores atualizadas para suporte de tecnologias da Web](https://caniuse.com/)<br/>
+- [Site Fiverr é o maior marketplace mundial de serviços digitais](https://www.fiverr.com/)<br/>
 
 ### Meus contatos:
 - WhatSapp: https://contate.me/marcos-franco
