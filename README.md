@@ -38,6 +38,7 @@ Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da ár
 - [Site "freeCodeCamp" para desenvolvedores, com muitos exercícios para praticar.](https://www.freecodecamp.org/learn/)<br/>
 - [Site "Can I use" fornece tabelas de suporte de navegadores atualizadas para suporte de tecnologias da Web](https://caniuse.com/)<br/>
 - [Site "Fiverr" é o maior marketplace mundial de serviços digitais e FREELA](https://www.fiverr.com/)<br/>
+- [Site "Miro" Quer se tornar um freelancer e lucrar, saiba essa técnica para organizar projetos!](https://miro.com/pt/planejamento-estrategico/grafico-gantt/)<br/>
 
 ### Meus contatos:
 - WhatSapp: https://contate.me/marcos-franco
