@@ -39,6 +39,10 @@ Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da ár
 - [Site "Can I use" fornece tabelas de suporte de navegadores atualizadas para suporte de tecnologias da Web](https://caniuse.com/)<br/>
 - [Site "Fiverr" é o maior marketplace mundial de serviços digitais e FREELA](https://www.fiverr.com/)<br/>
 - [Site "Miro - templates" Quer se tornar um freelancer e lucrar, saiba essa técnica para organizar projetos!](https://miro.com/pt/planejamento-estrategico/grafico-gantt/)<br/>
+  
+  ### Sites para hospedagem de sites:
+- [Plataforma para hospedagem de site "HOSTINGER"](https://www.hostinger.com.br/)<br/>
+- [Plataforma para hospedagem de site "HostGator"](https://www.hostgator.com.br/)<br/>
 
 ### Meus contatos:
 - WhatSapp: https://contate.me/marcos-franco
