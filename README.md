@@ -39,6 +39,7 @@ Me considero uma pessoa dedicada, sempre disposto a aprender, gosto muito da ár
 - [Site "Can I use" fornece tabelas de suporte de navegadores atualizadas para suporte de tecnologias da Web](https://caniuse.com/)<br/>
 - [Site "Fiverr" é o maior marketplace mundial de serviços digitais e FREELA](https://www.fiverr.com/)<br/>
 - [Site "Miro - templates" Quer se tornar um freelancer e lucrar, saiba essa técnica para organizar projetos!](https://miro.com/pt/planejamento-estrategico/grafico-gantt/)<br/>
+- [Site "Trilha info" É um projeto Open Source que nasceu em Junho/2022 com o objetivo de agregar e organizar conteúdos gratuitos em português para pessoas que querem ingressar na área de Tecnologia.](https://trilha.info/)<br/>
   
   ### hospedagem de sites:
 - [Plataforma para hospedagem de site "HOSTINGER"](https://www.hostinger.com.br/)<br/>
